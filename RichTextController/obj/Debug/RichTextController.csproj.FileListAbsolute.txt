@@ -1,0 +1,9 @@
+D:\Travaux\Juin\14-05-18\Nouveau dossier\RichTextController\RichTextController\bin\Debug\RichTextController.dll
+D:\Travaux\Juin\14-05-18\Nouveau dossier\RichTextController\RichTextController\bin\Debug\RichTextController.pdb
+D:\Travaux\Juin\14-05-18\Nouveau dossier\RichTextController\RichTextController\obj\Debug\RichTextController.csprojAssemblyReference.cache
+D:\Travaux\Juin\14-05-18\Nouveau dossier\RichTextController\RichTextController\obj\Debug\RichTextController.UserControl1.resources
+D:\Travaux\Juin\14-05-18\Nouveau dossier\RichTextController\RichTextController\obj\Debug\RichTextController.csproj.GenerateResource.cache
+D:\Travaux\Juin\14-05-18\Nouveau dossier\RichTextController\RichTextController\obj\Debug\RichTextController.csproj.CoreCompileInputs.cache
+D:\Travaux\Juin\14-05-18\Nouveau dossier\RichTextController\RichTextController\obj\Debug\RichTextController.dll
+D:\Travaux\Juin\14-05-18\Nouveau dossier\RichTextController\RichTextController\obj\Debug\RichTextController.pdb
+D:\Travaux\Juin\14-05-18\Nouveau dossier\RichTextController\RichTextController\obj\Debug\RichTextController.Properties.Resources.resources
